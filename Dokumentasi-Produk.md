@@ -13,8 +13,6 @@ sulitnya menemukan partner belajar yang sesuai, dan tidak adanya platform khusus
 # Dokumentasi Produk
 Dokumentasi lengkap mengenai produk dapat dilihat pada:
 
-Dokumentasi Produk : 
-
 Dokumen Bisnis: 
 https://app.notion.com/p/DOKUMEN-BISNIS-DAN-PROYEKSI-KEUANGAN-STARTUP-210050ac291a80d7aec5c320852a0145
 
@@ -38,13 +36,15 @@ https://www.figma.com/design/a19ZL4ZCUKRteZ3yln6tjw/Teman-Belajar-Mahasiswa?node
 ## Frontend
 ## Backend
 ## UI/UX
-   - Figma
+Desain Figma:
+https://www.figma.com/design/a19ZL4ZCUKRteZ3yln6tjw/Teman-Belajar-Mahasiswa?node-id=0-1&t=6zE3wOgOo0s1pZnT-1
+
 ## Dokumentasi 
    - Notion 
    - Github
 # Deployment
 # Hosting
 
-# Repository
+# Repository Project
 Project Github: https://github.com/dianhana/studymate.git
 
