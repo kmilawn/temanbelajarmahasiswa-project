@@ -1,4 +1,4 @@
-Teman Belajar Mahasiswa** adalah startup edutech 
+Teman Belajar Mahasiswa adalah startup edutech 
   yang mengembangkan platform kolaborasi akademik berbasis digital untuk menghubungkan 
   mahasiswa dalam kegiatan belajar bersama. 
   Aplikasi ini menjawab tiga masalah utama mahasiswa: kesulitan belajar mandiri, 
